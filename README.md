@@ -1,4 +1,4 @@
-# telebot
+# telebotg
 create file config.py in the root directory of project
 with content:
 
